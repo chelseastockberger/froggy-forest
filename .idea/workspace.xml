@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e90247fd-73e3-4e36-8daf-2880c3cc4f87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Froggy-Forest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALPROJECT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 6 Update.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Entities/Blob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Entities/Boss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Entities/Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Entities/EnemyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Entities/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Entities/Ghost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Entities/Head.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Entities/Isopod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Entities/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Entities/Projectile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Entities/Skull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/Audio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/Collision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/Dialogue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/EndMenu$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/EndMenu$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/EndMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/InputHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/Screen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/ScreenUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/StartMenu$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/StartMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/bossState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/defaultState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Main/textState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/BasicSword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/Chest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/CrystalSword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/Hat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/ItemWeaponFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/Items.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/MagicStaff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/Mushroom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/ObjectFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/Poison.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/Potion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/SharpSword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/UltraStrength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/Objects/Weapons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/TileMap/Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/TileMap/Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/TileMap/TileFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FINALPROJECT/TileMap/TileType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/EnemyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/EnemyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Collision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Collision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objects/Chest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/Chest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TileMap/TileFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TileMap/TileFactory.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KkjyOP3Gie01qCM1ryQrFWOSPQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.main" />
+      <module name="Froggy-Forest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e90247fd-73e3-4e36-8daf-2880c3cc4f87" name="Changes" comment="" />
+      <created>1674525731626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674525731626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
